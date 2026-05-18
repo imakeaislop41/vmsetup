@@ -1,5 +1,5 @@
 # VMSetup
-AI SLOP BTW
+
 A single-exe tool that fully configures a fresh Windows VM for debugging. No runtime dependencies — just run it as Administrator on a clean install and walk away.
 
 ## What It Does
@@ -117,4 +117,3 @@ The `/MT` flag statically links the C runtime — the resulting exe has **zero e
 ## License
 
 MIT
-
