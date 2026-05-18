@@ -1,4 +1,4 @@
-# VMSetup
+# VMSetup - AI SLOP
 
 A single-exe tool that fully configures a fresh Windows VM for debugging. No runtime dependencies — just run it as Administrator on a clean install and walk away.
 
